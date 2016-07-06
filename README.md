@@ -1,2 +1,2 @@
 # expression-parser-java
-Mathematical expression parser based on own k-ary binary tree written in java.
+Mathematical expression parser based on own k-ary tree written in java.
